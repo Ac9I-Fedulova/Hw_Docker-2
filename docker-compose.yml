@@ -1,0 +1,7 @@
+services:
+  postgres:
+    build: .
+    image: db
+    ports:
+      - "9999:9999"
+
