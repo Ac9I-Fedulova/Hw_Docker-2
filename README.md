@@ -1,2 +1,2 @@
-![Ответ зд2](https://github.com/user-attachments/assets/adc30ad9-8459-4c9e-bbc7-be9adcf503a8)
 
+![Ответ зд2](https://github.com/user-attachments/assets/a5cb246b-83b5-46ec-9f61-3900422a96f2)
